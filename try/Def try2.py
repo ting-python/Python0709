@@ -1,3 +1,4 @@
+
 def a(n,h):
     k = n + h
     return k # print(k)結果不一樣
@@ -12,5 +13,3 @@ print(ans)
 
 ans = a(34,7)
 print(ans)
-
-
